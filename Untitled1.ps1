@@ -2,4 +2,4 @@
 
 Get-Host
 
-Write-host "Hallo " $Env:Username " Hoe gaat het vandaag?"
+Write-host "Hallo" $Env:Username "Hoe gaat het vandaag?"
