@@ -1,0 +1,9 @@
+[
+  "{\r\n  \"@odata.type\": \"#microsoft.graph.windows10CustomConfiguration\",\r\n  \"roleScopeTagIds\": [\r\n    \"0\"\r\n  ],\r\n  \"supportsScopeTags\": false,\r\n  \"deviceManagementApplicabilityRuleOsEdition\": null,\r\n  \"deviceManagementApplicabilityRuleOsVersion\": null,\r\n  \"deviceManagementApplicabilityRuleDeviceMode\": null,\r\n  \"description\": \"Surface\",\r\n  \"displayName\": \"YSP_W10_Background_Surface-restore-18-04-2024-09-19-28\",\r\n  \"omaSettings\": [\r\n    {\r\n      \"@odata.type\": \"#microsoft.graph.omaSettingString\",\r\n      \"displayName\": \"DesktopImageUrl\",\r\n      \"description\": null,\r\n      \"omaUri\": \"./Vendor/MSFT/Personalization/DesktopImageUrl\",\r\n      \"value\": \"aHR0cHM6Ly9hZGRzcHJkcmdkaWFnNTgxLmJsb2IuY29yZS53aW5kb3dzLm5ldC9iYWNrZ3JvdW5kL1NpbWFjLUFkYXB0aXZlLVdvcmtwbGFjZS1wZW5jaWxzLXRleHRfc3VyZmFjZS5qcGc=\"\r\n    }\r\n  ]\r\n}",
+  "https://graph.microsoft.com/beta/deviceManagement/deviceConfigurations",
+  "YSP_W10_Background_Surface",
+  [
+    "2fb14c1a-3052-4e23-8d9e-406ffd259d07"
+  ],
+  null
+]
